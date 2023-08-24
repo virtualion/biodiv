@@ -1,2 +1,2 @@
 id	data	x	y	z	theta	size	parent	uniqueCode
-
+1	Videos/Image_place.mp4	0	12.5	0	-17.19999,0,0	3	1	1

@@ -1,0 +1,3 @@
+title	uniqueCode	path	targetPos
+zukan|	0	/images/ X N   [   V   b g 2023-08-25 192850.png	-56.3,27,34.47555
+matu|	2	/images/matu.png	-56.3,18.43199,80.19868

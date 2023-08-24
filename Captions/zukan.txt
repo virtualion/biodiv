@@ -1,0 +1,3 @@
+#title=zukan
+#path=/images/zukan.png
+#url=https://rnavi.ndl.go.jp/imagebank/data/post-194.html

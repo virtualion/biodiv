@@ -1,2 +1,2 @@
 #root=https://virtualion.github.io/biodiv/
-#prj=penguin_museum
+#prj=penguin

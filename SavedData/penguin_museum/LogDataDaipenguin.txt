@@ -1,0 +1,2 @@
+ID	type	x	z	theta	cover	uniqueCode	color
+19	No-table (floor	25.61861	13.38888	134.4999	1	76	0.4245283,0.4245283,0.5411765,1

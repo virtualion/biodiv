@@ -1,3 +1,0 @@
-title	uniqueCode	path	targetPos
-matu|	2	/images/matu.png	-56.3,18.43199,80.19868
-zukan|https://rnavi.ndl.go.jp/imagebank/data/post-194.html	0	/images/zukan.png	-56.3,27,34.47555

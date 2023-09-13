@@ -1,2 +1,0 @@
-id	type	x	y	z	theta	gyokaku	range	spotAngle	intensity	color
-

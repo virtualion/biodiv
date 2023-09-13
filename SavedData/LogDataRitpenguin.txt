@@ -1,0 +1,2 @@
+id	data	x	y	z	theta	size	parent	uniqueCode
+1	MyModels/penguin/penguin.zip	0.2000003	-1	-0.1700001	-179.5995,70.25864,0	0.15	19	77

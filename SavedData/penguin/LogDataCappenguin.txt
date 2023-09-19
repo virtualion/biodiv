@@ -4,8 +4,10 @@ caption1|	0	/images/penguin/caption1.png	36.8,29.6145,55.87738
 caption1|	1	/images/penguin/caption2.png	-10.0206,30.087,76.8
 caption1|	55	/images/penguin/caption3.png	-36.8,31.536,47.28918
 caption1|	3	/images/penguin/caption4.png	-36.8,31.599,20.6961
-caption1|	82	/images/penguin/caption4.png	-36.8,18.558,30.89629
 caption1|	81	/images/penguin/caption3.png	-36.8,18.684,51.99567
-caption1|	80	/images/penguin/caption2.png	5.317746,14.463,76.8
 caption1|	78	/images/penguin/caption1.png	36.8,14.6205,43.06731
-caption1|	79	/images/penguin/caption_3d.png	36.8,6.525017,16.40045
+caption1|	80	/images/penguin/caption_3d.png	24.76064,0,12.47787
+caption1|	79	/images/penguin/caption_3d.png	36.8,6.55652,16.40045
+caption1|	82	/images/penguin/caption_3d.png	23.64176,-0.5,13.01785
+caption1|	83	/images/penguin/caption_3d.png	23.66631,-0.5,12.9089
+caption1|	86	/images/penguin/caption_3d.png	27.65542,6.5,12.87311

@@ -1,2 +1,2 @@
 id	data	x	y	z	theta	size	parent	uniqueCode
-1	MyModels/penguin/penguin.zip	0.2000003	-1	-0.1700001	-179.5995,70.25864,0	0.15	19	77
+7	MyModels/penguin/black-footed.zip	-0.16	4.5	-0.76	-189.1994,0,0	35	21	86

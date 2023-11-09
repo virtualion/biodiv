@@ -1,0 +1,2 @@
+#title=fg_caption_hull
+#path=/images/fly_agaric/caption_hull.png

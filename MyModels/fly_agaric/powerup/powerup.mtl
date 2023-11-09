@@ -1,0 +1,50 @@
+# Blender 3.6.2 MTL File: 'None'
+# www.blender.org
+
+newmtl lambert2SG
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+Pr 0.500000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd ./textures/lambert2SG_baseColor.jpeg
+map_Bump -bm 1.000000 ./textures/lambert2SG_normal.jpeg
+
+newmtl lambert3SG
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+Pr 0.500000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd ./textures/lambert3SG_baseColor.jpeg
+map_Bump -bm 1.000000 ./textures/lambert3SG_normal.jpeg
+
+newmtl lambert4SG
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+Pr 0.500000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd ./textures/lambert4SG_baseColor.jpeg
+map_Bump -bm 1.000000 ./textures/lambert4SG_normal.jpeg

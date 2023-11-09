@@ -1,0 +1,2 @@
+#title=fg_caption_chim
+#path=/images/fly_agaric/caption_chim.png

@@ -1,0 +1,5 @@
+id	data	x	y	z	theta	size	parent	uniqueCode
+6	MyModels/fly_agaric/small/fly_agaric_small.obj	-2.11	-2	1.969999	0,0,0	80	6	19
+7	MyModels/fly_agaric/large/fly_agaric.obj	-0.5	-0.5	1.74	-161.5998,85.65741,346.0694	1.5	7	21
+9	MyModels/fly_agaric/caption_up.png,none(caption)	-4.989999	1	4.05	0,9.570656,0	0.4	1	23
+10	MyModels/fly_agaric/powerup/powerup.obj	-0.13	3	-0.3200004	-90.8002,0,354.1594	3.5	1	24

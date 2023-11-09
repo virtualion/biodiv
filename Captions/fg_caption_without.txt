@@ -1,0 +1,2 @@
+#title=fg_caption_without
+#path=/images/fly_agaric/caption_without.png

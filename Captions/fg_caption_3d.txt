@@ -1,0 +1,2 @@
+#title=fg_caption_3d
+#path=/images/fly_agaric/caption_3d.png

@@ -1,0 +1,2 @@
+#title=fg_caption_frog
+#path=/images/fly_agaric/caption_frog.png

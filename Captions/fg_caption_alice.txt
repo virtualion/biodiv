@@ -1,0 +1,2 @@
+#title=fg_caption_alice
+#path=/images/fly_agaric/caption_alice.png

@@ -1,0 +1,2 @@
+#title=fg_caption_small
+#path=/images/fly_agaric/caption_small.png
